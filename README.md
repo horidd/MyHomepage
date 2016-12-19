@@ -17,7 +17,8 @@ Content in the first column | Content in the second column
 If you want to embed images, this is how you do it:
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-[Link zum Klicken](https://www.horidd.de)
+
+[Link zum Klicken](http://www.horidd.de)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
