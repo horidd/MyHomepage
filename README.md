@@ -15,7 +15,7 @@ First Header | Second Header
 Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 
-[Link zum Clicken](https://www.horidd.de)
+[Link zum Klicken](https://www.horidd.de)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
