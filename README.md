@@ -1,4 +1,4 @@
-Welcome to HoRi's Homepage
+# Welcome to HoRi's - Homepage
 
 Hier folgt noch der Inhalt :-)
 
@@ -18,7 +18,7 @@ If you want to embed images, this is how you do it:
 
 ![WLAN-Bild](/images/wlan2.png)
 
-[Link zum Klicken](http://www.horidd.de)
+[https://horidd.de](http://www.horidd.de)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
