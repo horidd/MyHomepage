@@ -16,7 +16,7 @@ Content from cell 1 | Content from cell 2
 Content in the first column | Content in the second column
 If you want to embed images, this is how you do it:
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![WLAN-Bild](/images/wlan2.png)
 
 [Link zum Klicken](http://www.horidd.de)
 
