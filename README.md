@@ -30,8 +30,11 @@ If you want to embed images, this is how you do it:
 
 ![WLAN Bild](/images/wlan2.png)
 
-  [https://horidd.de](http://www.horidd.de)
+[https://horidd.de](http://www.horidd.de)
 
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+
+Emoji:
+:+1:  :smiley:
 
