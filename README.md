@@ -35,6 +35,5 @@ If you want to embed images, this is how you do it:
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-Emoji:
-:+1:  :smiley:
+Emoji: :smiley:
 
